@@ -29,17 +29,13 @@ The project is designed as a reusable menu template that can be dropped into any
 
 ---
 
-## 🎨 Splash Screen & Logo
+## 🎨 Splash Screen
 
 <p align="center">
   <img src="Content/Splash/Splash.png" alt="Splash Screen" width="800"/>
   <br/><em>Custom Splash Screen — Abandoned asylum atmosphere sets the tone before the menu even loads</em>
 </p>
 
-<p align="center">
-  <img src="HorrorGameMenu.png" alt="Project Logo" width="300"/>
-  <br/><em>Project Logo — Moonlit haunted house</em>
-</p>
 
 ---
 
