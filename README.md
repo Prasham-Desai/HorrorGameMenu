@@ -165,7 +165,7 @@ This menu system is designed to be easily customizable:
 
 ## 🎥 Video Demo
 
-https://github.com/Prasham-Desai/HorrorGameMenu/raw/main/screenshots/Video%20Demo.mp4
+https://github.com/Prasham-Desai/HorrorGameMenu/raw/main/Screenshots/Video%20Demo.mp4
 
 <p align="center"><em>Full walkthrough — Menu navigation, hover effects, click sounds, credits, and quit confirmation</em></p>
 
@@ -175,12 +175,12 @@ https://github.com/Prasham-Desai/HorrorGameMenu/raw/main/screenshots/Video%20Dem
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/SS1.png" alt="Main Menu" width="100%"/><br/><em>Main Menu — Title screen with looping video background</em></td>
-    <td align="center"><img src="screenshots/SS2.png" alt="Button Hover State" width="100%"/><br/><em>Hover State — "Play" button turns red on hover</em></td>
+    <td align="center"><img src="Screenshots/SS1.png" alt="Main Menu" width="100%"/><br/><em>Main Menu — Title screen with looping video background</em></td>
+    <td align="center"><img src="Screenshots/SS2.png" alt="Button Hover State" width="100%"/><br/><em>Hover State — "Play" button turns red on hover</em></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/SS3.png" alt="Credits Screen" width="100%"/><br/><em>Credits — "Created by Prasham Desai" with Return button</em></td>
-    <td align="center"><img src="screenshots/SS4.png" alt="Quit Confirmation" width="100%"/><br/><em>Quit Confirmation — Yes / No dialog in typewriter style</em></td>
+    <td align="center"><img src="Screenshots/SS3.png" alt="Credits Screen" width="100%"/><br/><em>Credits — "Created by Prasham Desai" with Return button</em></td>
+    <td align="center"><img src="Screenshots/SS4.png" alt="Quit Confirmation" width="100%"/><br/><em>Quit Confirmation — Yes / No dialog in typewriter style</em></td>
   </tr>
 </table>
 
