@@ -2,7 +2,7 @@
   <img src="HorrorGameMenu.png" alt="Horror Game Menu — Banner" width="400"/>
 </p>
 
-<h1 align="center">🩸 Horror Game Menu</h1>
+<h1 align="center">🩸 Buried Beneath — Main Menu</h1>
 
 <p align="center">
   <b>A cinematic, AAA-quality interactive main menu built entirely in Unreal Engine 5.6</b>
@@ -163,33 +163,29 @@ This menu system is designed to be easily customizable:
 
 ---
 
+## 🎥 Video Demo
+
+<p align="center">
+  <video src="screenshots/Video Demo.mp4" controls width="800">
+    Your browser does not support the video tag.
+  </video>
+  <br/><em>Full walkthrough — Menu navigation, hover effects, click sounds, credits, and quit confirmation</em>
+</p>
+
+---
+
 ## 📸 Screenshots
 
-> *Screenshots will be added here soon.*
-
-<!-- 
-Add your screenshots below. Recommended format:
-
-<p align="center">
-  <img src="screenshots/main_menu.png" alt="Main Menu" width="800"/>
-  <br/><em>Main Menu — Video background with fade-in animation</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/button_hover.png" alt="Button Hover State" width="800"/>
-  <br/><em>Button hover state — Color shift on cursor hover</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/credits.png" alt="Credits Screen" width="800"/>
-  <br/><em>Credits Screen — Smooth transition from main menu</em>
-</p>
-
-<p align="center">
-  <img src="screenshots/quit_confirm.png" alt="Quit Confirmation" width="800"/>
-  <br/><em>Quit Confirmation Dialog</em>
-</p>
--->
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/SS1.png" alt="Main Menu" width="100%"/><br/><em>Main Menu — Title screen with looping video background</em></td>
+    <td align="center"><img src="screenshots/SS2.png" alt="Button Hover State" width="100%"/><br/><em>Hover State — "Play" button turns red on hover</em></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/SS3.png" alt="Credits Screen" width="100%"/><br/><em>Credits — "Created by Prasham Desai" with Return button</em></td>
+    <td align="center"><img src="screenshots/SS4.png" alt="Quit Confirmation" width="100%"/><br/><em>Quit Confirmation — Yes / No dialog in typewriter style</em></td>
+  </tr>
+</table>
 
 ---
 
