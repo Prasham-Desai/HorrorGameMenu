@@ -161,7 +161,19 @@ This menu system is designed to be easily customizable:
 
 ## 🎥 Video Demo
 
-https://github.com/Prasham-Desai/HorrorGameMenu/raw/main/Screenshots/Video%20Demo.mp4
+<!-- 
+  HOW TO EMBED THE VIDEO INLINE:
+  1. Go to https://github.com/Prasham-Desai/HorrorGameMenu/issues/new
+  2. Drag & drop "Screenshots/Video Demo.mp4" into the comment box
+  3. GitHub will generate a URL like: https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+  4. Replace the URL in the video tag below with that generated URL
+  5. Close the issue (no need to submit it)
+-->
+
+<p align="center">
+  <video src="https://github.com/Prasham-Desai/HorrorGameMenu/raw/main/Screenshots/Video%20Demo.mp4" controls width="800">
+  </video>
+</p>
 
 <p align="center"><em>Full walkthrough — Menu navigation, hover effects, click sounds, credits, and quit confirmation</em></p>
 
