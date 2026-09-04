@@ -165,12 +165,9 @@ This menu system is designed to be easily customizable:
 
 ## 🎥 Video Demo
 
-<p align="center">
-  <video src="screenshots/Video Demo.mp4" controls width="800">
-    Your browser does not support the video tag.
-  </video>
-  <br/><em>Full walkthrough — Menu navigation, hover effects, click sounds, credits, and quit confirmation</em>
-</p>
+https://github.com/Prasham-Desai/HorrorGameMenu/raw/main/screenshots/Video%20Demo.mp4
+
+<p align="center"><em>Full walkthrough — Menu navigation, hover effects, click sounds, credits, and quit confirmation</em></p>
 
 ---
 
