@@ -1,4 +1,8 @@
-﻿<p align="center">
+﻿<div align="center">
+  <img src="Screenshots/github-intro-banner.svg" width="100%" alt="Intro Banner"/>
+</div>
+
+<p align="center">
   <img src="HorrorGameMenu.png" alt="Horror Game Menu — Banner" width="400"/>
 </p>
 
