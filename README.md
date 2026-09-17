@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="HorrorGameMenu.png" alt="Horror Game Menu — Banner" width="400"/>
 </p>
 
@@ -206,5 +206,5 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 <div align="center">
 <sub>Built with â¤ï¸ using Unreal Engine 5</sub>
 <br><br>
-<img src="ScreenShots/github-readme-banner.svg" alt="Creator Signature Banner"/>
+<img src="Screenshots/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>
