@@ -201,8 +201,6 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
   <sub>Built with 🩸 and Unreal Engine 5.6</sub>
 </p>
 
----
-
 <div align="center">
 <img src="Screenshots/github-readme-banner.svg" alt="Creator Signature Banner"/>
 </div>
